@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UTHUB_GAS2025",
+			"Path": "..\\Source\\UTHUB_GAS2025.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UTHUB_GAS2025Editor",
+			"Path": "..\\Source\\UTHUB_GAS2025Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

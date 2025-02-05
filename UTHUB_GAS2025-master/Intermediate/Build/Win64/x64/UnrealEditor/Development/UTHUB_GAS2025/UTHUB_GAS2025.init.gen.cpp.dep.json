@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\intermediate\\build\\win64\\unrealeditor\\inc\\uthub_gas2025\\uht\\uthub_gas2025.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\intermediate\\build\\win64\\x64\\uthub_gas2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uthub_gas2025\\definitions.uthub_gas2025.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

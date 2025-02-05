@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UTHUB_GAS2025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UTHUB_GAS2025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UTHUB_GAS2025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UTHUB_GAS2025">
+      <UniqueIdentifier>{20E94D90-8A9C-396F-B157-1CA732EBF664}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025.Build.cs">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025.cpp">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025.h">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025Character.cpp">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025Character.h">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025GameMode.cpp">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025GameMode.h">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025PlayerController.cpp">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\UTHUB_GAS2025PlayerController.h">
+      <Filter>Source\UTHUB_GAS2025</Filter>
+    </ClCompile>
+    <Filter Include="Source\UTHUB_GAS2025\Private">
+      <UniqueIdentifier>{D62B37A1-4A36-3DC7-B77A-3C2D1FFB4B49}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Private\GameplayBaseStateTags.cpp">
+      <Filter>Source\UTHUB_GAS2025\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Private\GameplayStatesManager.cpp">
+      <Filter>Source\UTHUB_GAS2025\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Private\Interactive.cpp">
+      <Filter>Source\UTHUB_GAS2025\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Private\UTHUB_ASC.cpp">
+      <Filter>Source\UTHUB_GAS2025\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UTHUB_GAS2025\Public">
+      <UniqueIdentifier>{42290A46-C321-341C-808B-6DD9D073C6FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Public\GameplayBaseStateTags.h">
+      <Filter>Source\UTHUB_GAS2025\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Public\GameplayStatesManager.h">
+      <Filter>Source\UTHUB_GAS2025\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Public\Interactive.h">
+      <Filter>Source\UTHUB_GAS2025\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UTHUB_GAS2025\Public\UTHUB_ASC.h">
+      <Filter>Source\UTHUB_GAS2025\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

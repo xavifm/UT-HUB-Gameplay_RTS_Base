@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\source\\uthub_gas2025\\uthub_gas2025.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\intermediate\\build\\win64\\x64\\uthub_gas2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uthub_gas2025\\definitions.uthub_gas2025.h",
+            "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\source\\uthub_gas2025\\uthub_gas2025.h",
+            "c:\\users\\sdasd\\documents\\github\\ut-hub-gameplay_rts_base\\uthub_gas2025-master\\source\\uthub_gas2025\\public\\gameplaystatesmanager.h",
+            "d:\\unreal\\ue_5.5\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\unreal\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\unreal\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\unreal\\ue_5.5\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "d:\\unreal\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
