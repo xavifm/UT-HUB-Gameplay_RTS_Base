@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTHUB_GAS2025ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ff483f7851da5a0625acc856ada296ae027b7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e51bf87e32b79b5b764b6593fe62adf2d3d30be")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTHUB_GAS2025ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTHUB_GAS2025ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
