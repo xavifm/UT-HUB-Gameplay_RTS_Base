@@ -13,6 +13,9 @@
 				"C:/Users/sdasd/Documents/GitHub/UT-HUB-Gameplay_RTS_Base/UTHUB_GAS2025-master/Content/Blueprints/Gamemode/MultiplayerRTSGM.uasset",
 				"C:/Users/sdasd/Documents/GitHub/UT-HUB-Gameplay_RTS_Base/UTHUB_GAS2025-master/Content/Blueprints/Player/Cursor/BP_WorldCursor.uasset",
 				"C:/Users/sdasd/Documents/GitHub/UT-HUB-Gameplay_RTS_Base/UTHUB_GAS2025-master/Content/Blueprints/Player/UI/W_GameUI.uasset",
+				"C:/Users/sdasd/Documents/GitHub/UT-HUB-Gameplay_RTS_Base/UTHUB_GAS2025-master/Content/Blueprints/MapElements/House.uasset",
+				"C:/Users/sdasd/Documents/GitHub/UT-HUB-Gameplay_RTS_Base/UTHUB_GAS2025-master/Content/Blueprints/MapElements/Market.uasset",
+				"C:/Users/sdasd/Documents/GitHub/UT-HUB-Gameplay_RTS_Base/UTHUB_GAS2025-master/Content/Blueprints/MapElements/Barracks.uasset",
 				"C:/Users/sdasd/Documents/GitHub/UT-HUB-Gameplay_RTS_Base/UTHUB_GAS2025-master/Content/Blueprints/Input/RTS_Controls.uasset"
 			]
 		}
